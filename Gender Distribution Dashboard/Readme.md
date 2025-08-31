@@ -61,6 +61,7 @@ The dataset represents **projected population data (2030–2040)** with the foll
 ---
 
 ## 6. Dashboard Snapshot  
-📌 
-c:\Users\aroje\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{F01C2326-1DB7-4AC2-8D1F-F8ED40E84FBC}.png 
+📌
+
+<img width="543" height="256" alt="{FF76BAFE-E523-494B-B95C-01D47E9C7865}" src="https://github.com/user-attachments/assets/ec9da4aa-4063-4008-813d-b351c8841455" />
 
